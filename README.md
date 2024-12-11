@@ -24,7 +24,7 @@ Graduate of Engineering from Anna University Chennai, In 2016.
 
 
 ## 📫 Cotact Me  
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/siva-brahma-singamaneni)  
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/siva-brahma-singamaneni-74a47b341)  
 - **Email**: siva.singamaneni@dcmail.ca  
 
 
