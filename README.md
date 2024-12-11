@@ -23,7 +23,7 @@ Graduate of Engineering from Anna University Chennai, In 2016.
 - **Container &amp; Orchestration Tools**     : Docker, Kubernetes
 
 
-## 📫 Cotact Me  
+## 📫 Contact Me  
 - **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/siva-brahma-singameneni-74a447b341)  
 - **Email**: siva.singamaneni@dcmail.ca  
 
